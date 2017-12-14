@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidOTest</string>
+    <string name="layer_turn_up_down_open">音量键翻页已开启\n可以从菜单中关闭</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <declare-styleable name="HotWordView">
+        <attr name="hwv_text_color" format="color|reference"></attr>
+        <attr name="hwv_text_size" format="dimension|reference"></attr>
+        <attr name="hwv_text_line_padding" format="dimension|reference"></attr>
+        <attr name="hwv_text_background" format="color|reference"></attr>
+        <attr name="hwv_text_lines" format="integer"></attr>
+        <attr name="hwv_text_padding" format="dimension|reference"></attr>
+    </declare-styleable>
+
+</resources>
